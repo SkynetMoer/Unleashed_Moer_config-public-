@@ -9,10 +9,12 @@
 </div>
 
 <div align=center>
+<a href="https://github.com/SkynetMoer/Unleashed_Moer_config.git"> <img src="https://github.com/Moerre/image/blob/6a73648d9a02d2e8b1b359551e8948740d4a8e08/download.png?" width="100px"></a>
+</div>
+ 
+<div align=center>
  
 [![image](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/GvCKVegSbr)
- <a href="https://github.com/SkynetMoer/Unleashed_Moer_config.git"> <img src="https://github.com/Moerre/image/blob/6a73648d9a02d2e8b1b359551e8948740d4a8e08/download.png?" width="80px"></a>
-
 </div>
 
 ```sh-session
