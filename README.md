@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-<a href="https://github.com/SkynetMoer/Unleashed_Moer_config.git"> <img src="https://github.com/Moerre/image/blob/6a73648d9a02d2e8b1b359551e8948740d4a8e08/download.png?" width="100px"></a>
+<a href="https://github.com/SkynetMoer/Unleashed_Moer_config.git"> <img src="https://github.com/Moerre/image/blob/6a73648d9a02d2e8b1b359551e8948740d4a8e08/download.png?" width="150px"></a>
 </div>
  
 <div align=center>
