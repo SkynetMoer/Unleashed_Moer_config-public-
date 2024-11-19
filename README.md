@@ -18,7 +18,7 @@
 </div>
 
 ```sh-session
-if you need support,you can join mine discord server
+if you need support,you can join my discord server
 ```
 
 ###   How to use config？<img src="https://github.com/Moerre/image/blob/2a865530e11e3919a630adfcea3db2189a43b3c7/%E8%A1%A8%E6%83%85%E5%8C%85/%E7%AC%91.jpg" width="30px">
